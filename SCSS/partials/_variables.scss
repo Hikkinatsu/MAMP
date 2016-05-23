@@ -1,0 +1,30 @@
+// -----------------------------------------
+// VARIABLES
+// -----------------------------------------
+
+$global-width: 1170px !default;
+$global-radius: 2px !default;
+
+$nb-color: 6 !default;
+$color-1: #007dcf !default;
+$color-2: #7dba00 !default;
+$color-3: #fcbd2c !default;
+$color-4: #f57000 !default;
+$color-5: #e60d2d !default;
+$color-6: #a60067 !default;
+$color-7: #4c4c4c !default;
+$color-8: #FFF !default;
+
+$colors:($color-1, $color-2, $color-3, $color-4, $color-5, $color-6);
+
+$font-normal: Arial, Tahoma, sans-serif !default;
+$font-special-1: "Montserrat", Arial, sans-serif !default;
+$font-special-2: "Source Sans Pro", "Trebuchet sans ms", sans-serif !default;
+
+$img-path: "../images/" !default;
+$fa-font-path: "../bower_components/font-awesome/fonts" !default;
+
+// Breakpoints
+$screen-sm: 768px !default;
+$screen-md: 1025px !default;
+$screen-lg: 1200px !default;
